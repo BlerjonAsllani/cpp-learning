@@ -13,7 +13,7 @@
 #include <iomanip>
 //#include <conio.h>
 
-using namespace std;
+using namespace std; // using namespace std can cause conflicts so its better to avoid it
 
 namespace first{
     int x = 1;
